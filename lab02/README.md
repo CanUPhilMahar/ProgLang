@@ -5,16 +5,16 @@ Java: int, while, do, for, float.\
 Python: for, in, 
 ### Задание 2
 C++:\
-int\
-main\
+*int\
+*main\
 (\
-)\
+)
 
 Python:\
 a\
 +\
 +\
-b\
+b
 ### Задание 3
 
 ### Задание 4
