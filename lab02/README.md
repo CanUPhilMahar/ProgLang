@@ -1,7 +1,7 @@
 # Лабароторная работа 2
 ### Задание 1
-C++: int, auto, float, for, void.
-Java: int, while, do, for, float.
+C++: int, auto, float, for, void.\
+Java: int, while, do, for, float.\
 Python: for, in, 
 ### Задание 2
 C++:
