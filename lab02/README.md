@@ -2,19 +2,19 @@
 ### Задание 1
 C++: int, auto, float, for, void.\
 Java: int, while, do, for, float.\
-Python: for, in, \
+Python: for, in, 
 ### Задание 2
-C++:
-*int\
-*main\
-*(\
-*)\
+C++:\
+int\
+main\
+(\
+)\
 
-Python:
-a
-+
-+
-b
+Python:\
+a\
++\
++\
+b\
 ### Задание 3
 
 ### Задание 4
