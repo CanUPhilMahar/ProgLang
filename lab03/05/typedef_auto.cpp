@@ -8,5 +8,4 @@ int main(){
     for (auto x: v){
         std::cout << x << " ";
     }
-    return 0;
 }

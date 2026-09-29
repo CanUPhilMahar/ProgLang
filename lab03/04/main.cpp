@@ -6,5 +6,4 @@ int main() {
   std::cout << typeid(a).name() << std::endl;
   auto b = x && y;
   std::cout << typeid(b).name() << std::endl;
-  return 0;
 }
