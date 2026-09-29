@@ -1,9 +1,12 @@
 #include <iostream>
 
-int main() {
-  bool x = true, y = false;
-  auto a = x & y;
-  std::cout << typeid(a).name() << std::endl;
-  auto b = x && y;
-  std::cout << typeid(a).name() << std::endl;
+int main(){
+    double a = 14.8;
+    int b = a;
+    std::cout << b << std::endl;
+    int x = 1;
+    if (x){
+        std::cout << "Hello World!" << std::endl;
+    }
+    return 0;
 }
