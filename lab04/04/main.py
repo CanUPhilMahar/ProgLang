@@ -1,5 +1,5 @@
-chr a = a
-a = a + 10
-print(a)
+a = 'a'
+a = int(a) + 10
+print(chr(a))
 a = a + 250
-print(a)
+print(chr(a))
